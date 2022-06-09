@@ -1,0 +1,14 @@
+---
+version: '0.1'
+matrix:
+  os: [linux]
+  files: ["specs/open_playwright_doc1.spec","specs/open_playwright_doc2.spec","specs/open_playwright_doc3.spec"]
+runson: ${matrix.os}
+pre:
+  - npm install
+  - curl -SsL https://downloads.gauge.org/stable | sh
+cacheKey: '{{ checksum "package-lock.json" }}'
+cacheDirectories:
+  - node_modules
+testSuites:
+  - gauge run $files
