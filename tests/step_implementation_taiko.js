@@ -18,7 +18,7 @@ const caps = {
     'video':true
   },
   'browserName': 'chrome',
-  'browserVersion': 'latest'
+  'browserVersion': '102.0'
 };
 
 beforeSuite(async() => {
