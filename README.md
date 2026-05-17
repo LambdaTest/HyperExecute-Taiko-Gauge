@@ -7,11 +7,11 @@
 
 ## Getting Started
 
-TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is an AI-native, end-to-end quality engineering platform that helps you run, manage, and analyze tests at scale — across browsers, devices, and environments.
+TestMu AI (Formerly LambdaTest) is an AI-native, end-to-end quality engineering platform that helps you run, manage, and analyze tests at scale — across browsers, devices, and environments.
 
-With TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can run Taiko Gauge tests on HyperExecute, a blazing-fast CI/CD-native test execution platform that intelligently distributes and runs your tests in parallel.
+With TestMu AI (Formerly LambdaTest), you can run Taiko Gauge tests on HyperExecute, a blazing-fast CI/CD-native test execution platform that intelligently distributes and runs your tests in parallel.
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 ## Prerequisites
@@ -19,7 +19,7 @@ With TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can run Taiko Gau
 - Node.js (>= 12)
 - [Gauge](https://gauge.org/) installed globally
 - [Taiko](https://taiko.dev/) installed globally
-- TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) account credentials (username and access key)
+- TestMu AI (Formerly LambdaTest) account credentials (username and access key)
 
 ## Setup
 
@@ -36,7 +36,7 @@ cd HyperExecute-Taiko-Gauge
 npm install
 ```
 
-3. Set your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) credentials as environment variables:
+3. Set your TestMu AI (Formerly LambdaTest) credentials as environment variables:
 
 ```sh
 export LT_USERNAME="YOUR_USERNAME"
@@ -65,15 +65,15 @@ Download the HyperExecute CLI for your OS and run:
 ./hyperexecute --config yaml/linux/hyperexecute.yaml
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
