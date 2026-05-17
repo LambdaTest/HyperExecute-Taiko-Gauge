@@ -7,12 +7,17 @@
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is an AI-native, end-to-end quality engineering platform that helps you run, manage, and analyze tests at scale — across browsers, devices, and environments.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-With TestMu AI (Formerly LambdaTest), you can run Taiko Gauge tests on HyperExecute, a blazing-fast CI/CD-native test execution platform that intelligently distributes and runs your tests in parallel.
+With TestMu AI (Formerly LambdaTest), you can run Taiko Gauge Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Prerequisites
 
