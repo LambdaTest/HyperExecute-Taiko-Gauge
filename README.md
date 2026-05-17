@@ -24,6 +24,11 @@ With TestMu AI (Formerly LambdaTest), you can run Taiko Gauge Tests across real 
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Prerequisites
 
 - Node.js (>= 12)
